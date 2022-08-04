@@ -1,7 +1,7 @@
 ### Olá! Somos a equipe do Real Parking
 ⚡ - Nossa Equipe é formada por 4 integrantes:
       <p>João Vitor Vaz de Andrade</p>
-     <p> Marco Ântonio Rezende Carleti</p>
+     <p> Marco Antônio Rezende Carleti</p>
      <p> Matheus Gomes Silva Lima</p>
       <p>Renan Oliveira Breves dos Santos</p>
 📫 - Contate-me no e-mail: easyparkingapp8@gmail.com
